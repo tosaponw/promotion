@@ -1,0 +1,152 @@
+/*//////////////////// akrobat ////////////////////*/
+@font-face {
+    font-family: 'akrobatlight';
+    src: url('fonts/akrobat-light-webfont.eot');
+    src: url('fonts/akrobat-light-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/akrobat-light-webfont.woff2') format('woff2'),
+        url('fonts/akrobat-light-webfont.woff') format('woff'),
+        url('fonts/akrobat-light-webfont.ttf') format('truetype'),
+        url('fonts/akrobat-light-webfont.svg#akrobatlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'akrobatregular';
+    src: url('fonts/akrobat-regular-webfont.eot');
+    src: url('fonts/akrobat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/akrobat-regular-webfont.woff2') format('woff2'),
+        url('fonts/akrobat-regular-webfont.woff') format('woff'),
+        url('fonts/akrobat-regular-webfont.ttf') format('truetype'),
+        url('fonts/akrobat-regular-webfont.svg#akrobatregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'akrobatbold';
+    src: url('fonts/akrobat-bold-webfont.eot');
+    src: url('fonts/akrobat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/akrobat-bold-webfont.woff2') format('woff2'),
+        url('fonts/akrobat-bold-webfont.woff') format('woff'),
+        url('fonts/akrobat-bold-webfont.ttf') format('truetype'),
+        url('fonts/akrobat-bold-webfont.svg#akrobatbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'akrobatblack';
+    src: url('fonts/akrobat-black-webfont.eot');
+    src: url('fonts/akrobat-black-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/akrobat-black-webfont.woff2') format('woff2'),
+        url('fonts/akrobat-black-webfont.woff') format('woff'),
+        url('fonts/akrobat-black-webfont.ttf') format('truetype'),
+        url('fonts/akrobat-black-webfont.svg#akrobatblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/*//////////////////// heavent ////////////////////*/
+@font-face {
+    font-family: 'db_heaventlight';
+    src: url('fonts/db_heavent_li_v3.2-webfont.eot');
+    src: url('fonts/db_heavent_li_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/db_heavent_li_v3.2-webfont.woff2') format('woff2'),
+        url('fonts/db_heavent_li_v3.2-webfont.woff') format('woff'),
+        url('fonts/db_heavent_li_v3.2-webfont.ttf') format('truetype'),
+        url('fonts/db_heavent_li_v3.2-webfont.svg#db_heaventlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'db_heaventregular';
+    src: url('fonts/db_heavent_v3.2-webfont.eot');
+    src: url('fonts/db_heavent_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/db_heavent_v3.2-webfont.woff2') format('woff2'),
+        url('fonts/db_heavent_v3.2-webfont.woff') format('woff'),
+        url('fonts/db_heavent_v3.2-webfont.ttf') format('truetype'),
+        url('fonts/db_heavent_v3.2-webfont.svg#db_heaventregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'db_heaventmed';
+    src: url('fonts/db_heavent_med_v3.2-webfont.eot');
+    src: url('fonts/db_heavent_med_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/db_heavent_med_v3.2-webfont.woff2') format('woff2'),
+        url('fonts/db_heavent_med_v3.2-webfont.woff') format('woff'),
+        url('fonts/db_heavent_med_v3.2-webfont.ttf') format('truetype'),
+        url('fonts/db_heavent_med_v3.2-webfont.svg#db_heaventmed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'db_heaventbold';
+    src: url('fonts/db_heavent_bd_v3.2-webfont.eot');
+    src: url('fonts/db_heavent_bd_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/db_heavent_bd_v3.2-webfont.woff2') format('woff2'),
+        url('fonts/db_heavent_bd_v3.2-webfont.woff') format('woff'),
+        url('fonts/db_heavent_bd_v3.2-webfont.ttf') format('truetype'),
+        url('fonts/db_heavent_bd_v3.2-webfont.svg#db_heaventbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/*//////////////////// heavent ////////////////////*/
+@font-face {
+    font-family: 'db_heaventlight_cond';
+    src: url('fonts/db_heavent_li_cond_v3.2-webfont.eot');
+    src: url('fonts/db_heavent_li_cond_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/db_heavent_li_cond_v3.2-webfont.woff2') format('woff2'),
+        url('fonts/db_heavent_li_cond_v3.2-webfont.woff') format('woff'),
+        url('fonts/db_heavent_li_cond_v3.2-webfont.ttf') format('truetype'),
+        url('fonts/db_heavent_li_cond_v3.2-webfont.svg#db_heaventlight_cond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'db_heavent_cond';
+    src: url('fonts/db_heavent_cond_v3.2-webfont.eot');
+    src: url('fonts/db_heavent_cond_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/db_heavent_cond_v3.2-webfont.woff2') format('woff2'),
+        url('fonts/db_heavent_cond_v3.2-webfont.woff') format('woff'),
+        url('fonts/db_heavent_cond_v3.2-webfont.ttf') format('truetype'),
+        url('fonts/db_heavent_cond_v3.2-webfont.svg#db_heaventcond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'db_heaventmed_cond';
+    src: url('fonts/db_heavent_med_cond_v3.2-webfont.eot');
+    src: url('fonts/db_heavent_med_cond_v3.2-webfont.eot?#iefix') format('embedded-opentype'),
+        url('fonts/db_heavent_med_cond_v3.2-webfont.woff2') format('woff2'),
+        url('fonts/db_heavent_med_cond_v3.2-webfont.woff') format('woff'),
+        url('fonts/db_heavent_med_cond_v3.2-webfont.ttf') format('truetype'),
+        url('fonts/db_heavent_med_cond_v3.2-webfont.svg#db_heaventmed_cond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'fzlantinghei-db-gbkregular';
+    src: url('fonts/fzltzhk-webfont.woff2') format('woff2'),
+        url('fonts/fzltzhk-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

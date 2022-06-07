@@ -1,0 +1,128 @@
+.ontop_menu_bt {
+    padding-top: 16px !important;
+}
+
+.ontop_menu_bt.home_en {
+    padding-top: 22px !important;
+}
+
+.ontop_home_pack_box .name {
+    font-size: 30px;
+}
+
+
+.pack_type_box {
+    width: 250px;
+}
+
+.pack_type_slide {
+    width: 120px;
+}
+
+.pack_type_slide.move {
+    width: 130px;
+    left: 120px;
+}
+
+.package_box .how {
+    font-size: 30px;
+}
+
+.package_box .how strong {
+    font-size: 45px;
+}
+
+.package_box .box_top {
+    position: relative;
+    padding: 20px 10px;
+    padding-bottom: 23px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+/*Responsive -------------------------------*/
+@media only screen and (min-width: 1300px) and (max-width: 2400px) {}
+
+@media screen and (max-width: 1366px) {}
+
+@media screen and (max-width: 1230px) {
+
+    .ontop_menu_bt,
+    .ontop_menu_sub_bt {
+        line-height: 1.1;
+        font-size: 14px;
+        height: 43px;
+        padding: 0px 15px;
+        padding-top: 8px !important;
+    }
+
+    .ontop_menu_bt.home_en {
+        padding-top: 12px !important;
+    }
+
+    .ontop_menu_sub {
+        bottom: -45px;
+        height: 43px;
+    }
+
+    .ontop_menu_sub_bt.ro2 {
+        padding-top: 8px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .ontop_home_pack_box .name {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .ontop_menu_wrap {
+        position: relative;
+        width: 100%;
+        overflow: auto;
+    }
+
+    .ontop_menu_area {
+        position: relative;
+        width: 1000px;
+    }
+
+    .hand_touch {
+        position: absolute;
+        z-index: 10;
+        width: 40px;
+        height: 40px;
+        left: 50%;
+        top: 50%;
+        margin-left: -20px;
+        margin-top: -20px;
+        background: url(../images/touch.gif) no-repeat center;
+        background-size: 100% 100%;
+        border-radius: 500px;
+        opacity: 0.8;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.8);
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .pack_type_box {
+        width: 200px;
+    }
+
+    .pack_type_slide {
+        width: 95px;
+    }
+
+    .pack_type_slide.move {
+        width: 110px;
+        left: 90px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .ontop_home_pack_box .name {
+        font-size: 20px;
+    }
+}

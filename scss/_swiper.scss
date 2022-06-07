@@ -1,0 +1,220 @@
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  position: relative;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+
+  transform: scale(1);
+  transition: 0.4s;
+}
+// .swiper-slide-active {
+//   transform: scale(1);
+//   transition: 0.4s;
+// }
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
+  left: 15px !important;
+  right: auto;
+}
+
+.swiper-button-next,
+.swiper-rtl .swiper-button-prev {
+  right: 15px !important;
+  left: auto;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  font-size: 25px;
+  padding: 10px 16px;
+  border-radius: 50%;
+  background-color: rgba(28, 57, 49, 0.8);
+  color: #fff;
+  @media #{$layout-mobile-lg} {
+    font-size: 12px;
+    padding: 10px 13px;
+  }
+}
+
+.card-highlight {
+  background-color: #73c23a;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2 );
+  border-radius: 20px;
+  width: 100%;
+  display: block;
+  .highlight-image {
+    position: relative;
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      background: url("../images/shape.png") no-repeat;
+      background-size: cover;
+      width: 100%;
+      height: 20px;
+    }
+    img {
+      width: 100%;
+      max-width: 100%;
+      border-top-left-radius: 20px;
+      border-top-right-radius: 20px;
+    }
+  }
+  .highlight-content {
+    padding: 20px 20px 20px 20px;
+    max-height: 90px;
+    height: 90px;
+    h1.content-title {
+      margin: 0 0 10px 0;
+      font-size: 22px;
+      font-weight: bold;
+      color: #000;
+      @media #{$layout-mobile-lg} {
+        font-size: 18px;
+      }
+    }
+    p.content-description {
+      margin: 0;
+      font-size: 16px;
+      color: #000;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      @media #{$layout-mobile-lg} {
+        font-size: 14px;
+      }
+    }
+  }
+  ul.date-and-link {
+    margin: 0;
+    padding: 0 20px 20px 20px;
+    overflow: hidden;
+    li {
+      float: left;
+      &.for-left{
+        width: 50%;
+      }
+      &.for-right{
+        width: 50%;
+      }
+      p.date {
+        margin: 0;
+        font-size: 16px;
+        line-height: 16px;
+        color: #fff;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        @media #{$layout-mobile-lg} {
+          font-size: 14px;
+        }
+      }
+      a.link {
+        display: block;
+        text-align: right;
+        text-decoration: none;
+        margin: 0;
+        color: #fff;
+        font-size: 16px;
+        line-height: 16px;
+        @media #{$layout-mobile-lg} {
+          font-size: 14px;
+        }
+      }
+    }
+  }
+}
+
+.tab-promotion , .tabs-article{
+  position: relative;
+  margin-bottom: 30px;
+  &:after{
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    content:"";
+    bottom: 0;
+    left:0;
+    background-color:#7B7B7B;
+  }
+  .swiper-slide {
+    position: relative;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: left;
+    -ms-flex-pack: left;
+    -webkit-justify-content: left;
+    justify-content: left;
+    -webkit-box-align: left;
+    -ms-flex-align: left;
+    -webkit-align-items: left;
+    align-items: left;
+  }
+}
+p.tab-button{
+  margin:10px 0 0 0;
+  cursor: pointer;
+  border-bottom: 4px solid transparent;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  color:#7B7B7B;
+  padding: 0 10px;
+  font-size: 16px;
+  padding-bottom: 5px;
+  @media #{$layout-mobile-lg} {
+    margin: 0;
+    font-size: 14px;
+
+  }
+  @media #{$layout-tablet} {
+    margin: 0;
+    font-size: 14px;
+    
+  }
+
+  &.active{
+    color:#262626;
+    border-bottom: 4px solid #73C23A;
+  }
+  &:hover{
+    color:#262626;
+    border-bottom: 4px solid #73C23A;
+  }
+}
+
+.tab-content , .tab-centent-article{
+  margin-top:25px;
+  padding: 0 0;
+  @media #{$layout-mobile-lg} {
+    padding: 0 20px;
+  }
+}
