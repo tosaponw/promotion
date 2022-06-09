@@ -421,7 +421,6 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: "db_heaventmed_cond";
   margin: 0;
 }
 
@@ -447,7 +446,7 @@ hr {
 .section-highlight {
   position: relative;
   padding-bottom: 120px;
-  padding-top: 90px;
+  padding-top: 130px;
   background-image: url(../images/Subtract.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -463,14 +462,14 @@ hr {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-highlight {
-    padding-top: 90px;
+    padding-top: 105px;
     padding-bottom: 100px;
   }
 }
 
 @media only screen and (max-width: 767px) {
   .section-highlight {
-    padding-top: 90px;
+    padding-top: 105px;
     padding-bottom: 70px;
   }
 }

@@ -19,7 +19,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: "db_heaventmed_cond";
+  // font-family: "db_heaventmed_cond";
   margin: 0;
 
   @media #{$layout-tablet} {
@@ -56,19 +56,19 @@ hr {
   }
   position: relative;
   padding-bottom: 120px;
-  padding-top: 90px;
+  padding-top: 130px;
   background-image: url(../images/Subtract.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin-top: -80px;
   z-index: 4;
   @media #{$layout-tablet} {
-    padding-top: 90px;
+    padding-top: 105px;
     padding-bottom: 100px;
   }
 
   @media #{$layout-mobile-lg} {
-    padding-top: 90px;
+    padding-top: 105px;
     padding-bottom: 70px;
   }
 }
