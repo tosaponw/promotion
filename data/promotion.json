@@ -17,15 +17,7 @@
     "alt": "Online Surprise Saleine ",
     "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/OnlineSurprise_Jun.jpg"
   },
-  {
-    "id": 5,
-    "title": "AIS Hot Deal",
-    "description": "AIS Hot Deal จำหน่ายมือถือเครื่องเปล่า พร้อมแพ็กเกจ สำหรับลูกค้าทุกกลุ่ม -สำหรับลูกค้าใหม่ ย้ายค่ายเบอร์เดิม -สำหรับลูกค้าเปลี่ยนเติมเงินเป็นรายเดือน (AIS Existing)-สำหรับลูกค้าใหม่ ย้ายค่ายเบอร์เดิม, เปลี่ยนเติมเงินเป็นรายเดือน และลูกค้าปัจจุบัน",
-    "link": "https://www.hotdeal.ais.co.th/index.html",
-    "date": "18 พ.ค. 65 – 13 มิ.ย. 65",
-    "alt": "AIS Hot Deal",
-    "image": "https://www.hotdeal.ais.co.th/assets/images/herobanner/hotdeal/202205_ReSize_HotDeal_1040X1040.jpg?v=2345"
-  },
+  
   {
     "id": 6,
     "title": "โปรเปลี่ยนเติมเงินเป็นรายเดือน",
@@ -35,15 +27,7 @@
     "alt": "โปรเปลี่ยนเติมเงินเป็นรายเดือน",
     "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/image002.png"
   },
-  {
-    "id": 4,
-    "title": "Marathon Day&Night! ซิมเน็ต มาราธอน",
-    "description": "ลดพิเศษ 15 วัน เท่านั้น!!! ซิมฮิตของยุคนี้ ซิมเน็ตมาราธอน ที่ AIS Online Store ตั้งแต่ 1 มิ.ย. 65 – 15 มิ.ย. 65 *เงื่อนไขตามหน้าเว็บไซต์ #AISOnlineStore",
-    "link": "https://store.ais.co.th/th/sim-card-new/net-marathon.html?intcid=promotion-th-ais-olscommu-SIM_net_marathon",
-    "date": "1 มิ.ย. 65 – 15 มิ.ย. 65",
-    "alt": "ซิมเน็ต มาราธอน",
-    "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/Net-Marathon_1000x1000.jpg"
-  },
+  
   {
     "id": 2,
     "title": "SALE IN THE RAIN",
