@@ -1,13 +1,15 @@
 [
   {
-    "id": 5,
-    "title": "รับฟรี! กระเป๋าผ้าแคนวาส (รักษ์โลก)",
-    "description": " เมื่อซื้อสมาร์ทโฟน 5G ที่ AIS Online Store ที่ AIS Online Store ",
+    "id": 10,
+    "title": "ซื้อเครื่องเปิดเบอร์ใหม่ที่ AIS Online Store",
+    "description": " ซื้อมือถือราคาพิเศษ รับฟรี! เบอร์มงคลเสริมชีวิต สุขภาพดี-งานเด่น ที่ AIS Online Store ",
     "link": "https://store.ais.co.th/th/hotdealnew-only.html?intcid=promotion-th-ais-olscommu-2022-hotdealnew",
-    "date": "17 มิ.ย. 65 – 30 มิ.ย. 65",
-    "alt": "",
-    "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/free-canvas-bag-990-baht_1000x1000.jpg"
+    "date": "1 ก.ค. 65 – 31 ก.ค. 65",
+    "alt": "ซื้อเครื่องพร้อมเปิดเบอร์ใหม่ที่ AIS Online Store",
+    "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/1000x1000-online.jpg"
   },
+  
+  
   {
     "id": 4,
     "title": "AIS Hot Deal",
@@ -17,44 +19,7 @@
     "alt": "",
     "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/AIS-Hot-Deal-June-2022.jpg"
   },
-  {
-    "id": 7,
-    "title": "เปิดเบอร์ใหม่ที่ AIS Online Store",
-    "description": " ซื้อมือถือราคาพิเศษ รับฟรี! เบอร์มงคลเสริมชีวิต ร่ำรวย-รักรุ่ง ที่ AIS Online Store ตั้งแต่ 1 มิ.ย. 65 – 30 มิ.ย. 65     ",
-    "link": " https://store.ais.co.th/th/hotdealnew-only.html?intcid=promotion-th-ais-olscommu-2022-hotdealnew",
-    "date": "1 มิ.ย. 65 – 30 มิ.ย. 65",
-    "alt": "AIS Online Store",
-    "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/Hot-Deal-New-Jun.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Online Surprise Sale",
-    "description": "มือถือราคาพิเศษพร้อมซิมเติมเงิน ฟรี! เน็ตไม่อั้น 10 Mbps พร้อมโทรฟรี AIS 24 ชม. ที่ AIS Online Store ตั้งแต่ 1 มิ.ย. 65 – 30 มิ.ย. 65",
-    "link": " https://store.ais.co.th/th/mobile-phone/online-surprise-sale.html?intcid=promotion-th-ais-olscommu-2022-online_surprise_sale",
-    "date": "1 มิ.ย. 65 – 30 มิ.ย. 65",
-    "alt": "Online Surprise Saleine ",
-    "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/OnlineSurprise_Jun.jpg"
-  },
   
-  {
-    "id": 6,
-    "title": "โปรเปลี่ยนเติมเงินเป็นรายเดือน",
-    "description": "เปลี่ยนเติมเงินเป็นรายเดือน เริ่มต้น 299.-/เดือน รับสิทธิ์ซื้อมือถือราคาพิเศษเริ่ม 589.-",
-    "link": "https://www.ais.th/postpaid/prepaid-to-postpaid/",
-    "date": "1 มิ.ย. 65 – 30 มิ.ย 65",
-    "alt": "โปรเปลี่ยนเติมเงินเป็นรายเดือน",
-    "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/image002.png"
-  },
-  
-  {
-    "id": 2,
-    "title": "SALE IN THE RAIN",
-    "description": "แจกโค้ดส่วนลดสูงสุด 450 บาท ที่ AIS Online Storeตั้งแต่ 1 มิ.ย.65 – 30 มิ.ย. 65 *เงื่อนไขตามหน้าเว็บไซต์#AISOnlineStore",
-    "link": "https://store.ais.co.th/th/hotdealnew-only.html?intcid=store-th-index-promotion-ais-olscommu-2022-monthly_coupon",
-    "date": "1 มิ.ย.65 – 30 มิ.ย. 65",
-    "alt": "SALE IN THE RAIN",
-    "image": "https://omm-test.azurewebsites.net/ton/promotion/images/promotion/Monthly-Coupon-June_1000x1000.jpg"
-  },
   {
     "id": 1,
     "title": "Super Premium SIM",
